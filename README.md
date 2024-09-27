@@ -1,16 +1,11 @@
 ## Hi there 👋
 
-<!--
-**chimexokeke/chimexokeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Petals for a school game jam
+- 🔭 I’m currently working on a game called Petals for a school game jam
 - 🌱 I’m currently learning how to develop games in Unity using C#
-//- 👯 I’m looking to collaborate on ...
-//- 🤔 I’m looking for help with ...
-//- 💬 Ask me about ...
-//- 📫 How to reach me: ...
-//- 😄 Pronouns: ...
-//- ⚡ Fun fact: ...
-//-->
+- 👯 I’m looking to intern in a game studio so I can sharpen my abilities
+- 🤔 I’m looking to be great at game development before i wrap up school
+- 💬 Ask me about my background
+- 📫 How to reach me: chimexokeke@yahoo.com
+- 😄 Pronouns: None
+- ⚡ Fun fact: I studied Biochemistry
+-->
